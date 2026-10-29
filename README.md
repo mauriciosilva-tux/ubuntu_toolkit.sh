@@ -33,5 +33,8 @@ O script foi projetado para distribuições **Ubuntu** (e derivados baseados em 
 
 1. Clone o repositório ou baixe o arquivo do script:
    ```bash
-   git clone [https://github.com/mauriciosilva-tux/ubuntu-system-toolkit.git](https://github.com/mauriciosilva-tux/ubuntu-system-toolkit.git)
-   cd ubuntu-system-toolkit
+
+git clone https://github.com/mauriciosilva-tux/ubuntu_toolkit.sh.git
+cd ubuntu_toolkit.sh   
+```
+  
