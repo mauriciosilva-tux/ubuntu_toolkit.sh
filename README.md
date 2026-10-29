@@ -32,9 +32,8 @@ O script foi projetado para distribuições **Ubuntu** (e derivados baseados em 
 ## 📥 Instalação e Uso
 
 1. Clone o repositório ou baixe o arquivo do script:
-   ```bash
-
-git clone https://github.com/mauriciosilva-tux/ubuntu_toolkit.sh.git
-cd ubuntu_toolkit.sh   
+```bash
+   git clone https://github.com/mauriciosilva-tux/ubuntu_toolkit.sh.git
+   cd ubuntu_toolkit.sh
 ```
   
